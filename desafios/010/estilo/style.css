@@ -108,7 +108,7 @@ main a{
     background-color: var(--cor1);
     padding: 2px 5px;
     font-weight: bold;
-}
+}     
 
 main a:hover{
     text-decoration: underline;
